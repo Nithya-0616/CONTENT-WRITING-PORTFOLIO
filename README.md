@@ -1,18 +1,26 @@
 # Content Writing Portfolio
 
-A collection of published writing samples created for **Pehchaan – The Street School**.
+**Nithya Sreenath | Content Writer**
 
-The articles focus on education, child development, community initiatives, volunteering, health and hygiene, environmental awareness, and social empowerment.
+Welcome to my content writing portfolio. This repository brings together a collection of published articles that reflect my experience in research-based writing, storytelling, editorial content and communicating social initiatives.
 
-## Published Writing Samples
+My writing focuses on creating meaningful narratives around education, child development, community development, social awareness, health, hygiene and environmental responsibility.
 
-| # | Article | Publication |
+## Writing Experience
+
+I have contributed articles and editorial content for **Pehchaan – The Street School**, covering community initiatives, educational activities and social causes.
+
+This portfolio showcases 12 selected published writing samples.
+
+## Published Articles
+
+| No. | Article | Publication |
 |---|---|---|
 | 1 | [Bestowing Darts Ignited with Virtues](articles/Bestowing-Darts-Ignited-with-Virtues.pdf) | Pehchaan – The Street School |
 | 2 | [Celebrating the Little Stars Who Make Our World Better](articles/Celebrating-the-Little-Stars.pdf) | Pehchaan – The Street School |
 | 3 | [Fostering Green Thoughts](articles/Fostering-Green-Thoughts.pdf) | Pehchaan – The Street School |
 | 4 | [Pehchaan: Finding Yourself Beyond Label](articles/Pehchaan-Finding-Yourself-Beyond-Label.pdf) | Pehchaan – The Street School |
-| 5 | [Pehchaan Building Futures Through Collaborations](articles/Pehchaan-Building-Futures-Through-Collaborations.pdf) | Pehchaan – The Street School |
+| 5 | [Pehchaan: Building Futures Through Collaborations](articles/Pehchaan-Building-Futures-Through-Collaborations.pdf) | Pehchaan – The Street School |
 | 6 | [Redefining the Communities in Need](articles/Redefining-Communities-in-Need.pdf) | Pehchaan – The Street School |
 | 7 | [Spreading Christmas Cheer](articles/Spreading-Christmas-Cheer.pdf) | Pehchaan – The Street School |
 | 8 | [Sprouting of Beacon Stuffed with Light](articles/Sprouting-of-Beacon-Stuffed-with-Light.pdf) | Pehchaan – The Street School |
@@ -21,19 +29,24 @@ The articles focus on education, child development, community initiatives, volun
 | 11 | [Unsung and Invisible Champions of Education](articles/Unsung-and-Invisible-Champions-of-Education.pdf) | Pehchaan – The Street School |
 | 12 | [Warming Hearts with Education](articles/Warming-Hearts-with-Education.pdf) | Pehchaan – The Street School |
 
-## About the Work
+## Core Writing Skills
 
-These samples demonstrate article research, long-form writing, storytelling, topic development, and communication of community-focused initiatives.
+- Research and topic development
+- Long-form article writing
+- Storytelling and narrative development
+- Editorial content creation
+- Communicating social initiatives and community impact
+- Clear and audience-focused communication
 
-## Publication Links
-
-Where available, add the original live article URL beside each title so readers can visit the published version.
-
-## Author
+## About the Author
 
 **Nithya Sreenath**
+
+Connect with me:
 
 - [LinkedIn](https://www.linkedin.com/in/nithyasreenath/)
 - [GitHub](https://github.com/nithya16-sql)
 
-*The article files are provided as writing samples. Original wording has been retained.*
+---
+
+*The articles are shared as writing samples. Their original content has been retained.*
